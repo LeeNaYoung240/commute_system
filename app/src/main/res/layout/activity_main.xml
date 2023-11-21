@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:scaleX="1.5"
+    android:scaleY="1.5"
+    android:background="@drawable/j"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/camera_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/cardview_shadow_end_color"
+        android:text="출근"
+        android:textAllCaps="false"
+        android:textColor="#384CBF"
+        android:textSize="20sp"
+        android:textStyle="bold"></Button>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/cardview_shadow_end_color"
+        android:onClick="onButton1Clicked2"
+        android:text="퇴근"
+        android:textColor="#384CBF"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+
+</LinearLayout>
