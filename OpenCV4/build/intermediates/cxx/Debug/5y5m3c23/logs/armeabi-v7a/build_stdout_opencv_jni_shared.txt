@@ -1,0 +1,7 @@
+ninja: Entering directory `C:\Users\salmo\AndroidStudioProjects\Test\OpenCV4\.cxx\Debug\5y5m3c23\armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o
+C:/Users/salmo/AndroidStudioProjects/Test/OpenCV4/libcxx_helper/dummy.cpp:12:1: warning: non-void function does not return a value [-Wreturn-type]
+}
+^
+1 warning generated.
+[2/2] Linking CXX static library libopencv_jni_shared.a

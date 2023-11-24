@@ -1,0 +1,6 @@
+labWears
+goggles
+mask
+non_labWears
+non_goggles
+non_mask
